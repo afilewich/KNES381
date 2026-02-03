@@ -1,6 +1,6 @@
 Fruits       | Vegetables | Meat
 | :---: | :---: | :---:
-[x] Apples ![picture alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREiQvqPoTf2SXzpC8QmFfATKdWdmSvnaEMfA&s)       | [ ] Carrots    | [ ] Beef
-[ ] Raspberries  | [x] Mushrooms  | [ ] Chicken
-[ ] Strawberries | [x] Asparagas  | [x] Fish
-[x] Orange       | [x] Celery     | [ ] Eggs
+[x] Apples ![picture alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREiQvqPoTf2SXzpC8QmFfATKdWdmSvnaEMfA&s)       | [ ] Carrots![picture alt](https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ0elBFMkynhEnrT6Ii7v3SBOHTcwdYox3mJTc0In9DByGCJO1ZzcxSTMBka3udAzAR05wodpInxsqi-h9zF9MNCBP9NieqS71aF3KX62gyLz6rzXXcPaQzb8yI)    | [ ] Beef ![picture alt](https://digital.loblaws.ca/PCX/20766602_KG/en/1/20766602_en_front_800.png)
+[ ] Raspberries ![picture alt](https://product-images.metro.ca/images/h8c/h6c/10406085853214.jpg) | [x] Mushrooms ![picture alt](https://product-images.metro.ca/images/h0b/hca/14266229391390.jpg)  | [ ] Chicken ![picture alt](https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSsmxJAvIq9chhir9H06wF3KmIDPFkeztjm9CAvosxrFY1SGK8h4AGMDaKRa3-qHetoKVlaQ407O1wS3x4fWMQ3_rQ4eSd-2LdHsCFVpKh1)
+[ ] Strawberries ![picture alt] | [x] Asparagus ![picture alt](https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR9QY1mwMA2CxbMfrH_QUBRiHZaU2Ay4IfOytq8Cx0QwVBo-NVeb-sv8ihuWi6GOvu73mPBy6yTzRtIkqZi1IaqSJQH9OH8LLd23Hz6_u059UVWOwt-VUXsJzw)  | [x] Fish ![picture alt](https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR9RIX5jO6OBDMW3L62bZXkM05qlJ3IZi89nyY1DkP314A0bTEUsoytMjAdJAAQs9-lS-FtRHpirLVQB4x89xyocub1zMZILA)
+[x] Orange ![picture alt](https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQEwM0Z-Iuxnl_hCgKPgJgsp0L_6PXKeLylYMLcGESkiAyBx2996gGLd5MswautKkMvJtz2JrVdiLcq8BlQEu6leBcHg9fsYk0rtjh9XqJVBdqd1NVc_kZLkyjI)      | [x] Celery ![picture alt](https://silvaproduce.ca/wp-content/uploads/2020/04/Celery.jpg) | [ ] Eggs ![picture alt](https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuZxikDa_lbpqk3ppqKqdyj1vErO6MsKT-UF0MLE-XXO-RVQRQVBTEFeQbvpfq5xEalP4XQj4qVOwMA9iyyMyuEsCIRY-ZJBHLMWuP3-sgOneUSD1jsUZTv-aU)
