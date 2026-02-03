@@ -1,6 +1,6 @@
-Fruits       | Vegetables
------------- | ----------
-Apples       | Carrots
-Raspberries  | Mushrooms
-Strawberries | Asparagas
-Orange       | Celery
+Fruits       | Vegetables | Meat
+------------ | ---------- | ----
+Apples       | Carrots    | Beef
+Raspberries  | Mushrooms  | Chicken
+Strawberries | Asparagas  | Fish
+Orange       | Celery     | Eggs
