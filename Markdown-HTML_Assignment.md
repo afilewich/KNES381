@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1><p align="center">Allow this page to be a nod to a <strong><em>legend</strong></em></p1></h1>
+<h1><p align="center><strong><em>Never Gonna Give You Up</strong></em></p1></h1>
 
 
 
