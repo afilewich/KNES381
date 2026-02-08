@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
 <body>
+<h1><p align="center">Allow this page to be a nod to a <strong><em>legend</strong></em></p1></h1>
 
-Here is some regular text
 
-<p align="center">A piece of centered text</p>
+
+<a href="https://https://www.youtube.com/watch?v=dQw4w9WgXcQ" <strong>Legend</strong>> <img src="https://giphy.com/gifs/rick-astley-Ju7l5y9osyymQ">
 
 
 
