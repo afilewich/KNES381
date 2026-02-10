@@ -20,7 +20,11 @@ flowchart TD
     BB --> D[Listen to the best music]
     B ---------> D[Listen to the best music]
     D --> DD[Recommendations]
-    DD --> E<a href="https://www.youtube.com/watch?v=RmDftGg1kQI"> [Modern English] </a>
-    DD --> F<a href="https://www.youtube.com/watch?v=f5mBN9aQHGI"> [A Flock Of Seagulls] </a>
-    DD --> G<a href="https://www.youtube.com/watch?v=zUKXhRikfPw"> ['Til Tuesday] </a>
+    DD --> E["Modern English"]
+    DD --> F<img src="https://media1.tenor.com/m/SSY2V0RrU3IAAAAd/rick-roll-rick-rolled.gif"["A Flock Of Seagulls"]
+    DD --> G["'Til Tuesday"]
+    
+    click E "https://www.youtube.com/watch?v=RmDftGg1kQI"
+    click F "https://www.youtube.com/watch?v=f5mBN9aQHGI"
+    click G "https://www.youtube.com/watch?v=zUKXhRikfPw"
 ```
