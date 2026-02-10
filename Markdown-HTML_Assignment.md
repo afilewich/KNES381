@@ -21,7 +21,7 @@ flowchart TD
     B ---------> D[Listen to the best music]
     D --> DD[Recommendations]
     DD --> E["Modern English"]
-    DD --> F<img src="https://media1.tenor.com/m/SSY2V0RrU3IAAAAd/rick-roll-rick-rolled.gif"["A Flock Of Seagulls"]
+    DD --> F["A Flock Of Seagulls"]
     DD --> G["'Til Tuesday"]
     
     click E "https://www.youtube.com/watch?v=RmDftGg1kQI"
