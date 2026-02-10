@@ -9,6 +9,7 @@
 <a href="experimentingfile.md">Grocery List</a>
 
 ```mermaid
+flowchart TD
     A[Enjoy New Wave?]
     A --> B[Yes]
     A --> C[No?]
