@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <button><strong>RICK=<em>M</em>aster<em>C</em>lass<sup>2<sup><strong></button></a> <img src="https://media1.tenor.com/m/SSY2V0RrU3IAAAAd/rick-roll-rick-rolled.gif" width=600/><p>
 <p> C=3.0 &middot; 10<sup>8</sup> m/s</p>
-<a href="Defs_Not_Rick_Roll.gif"><em><strong>Important</em></strong>
+<a href="Defs_Not_Rick_roll.gif"><em><strong>Important</em></strong>
 
 <a href="experimentingfile.md">Grocery List</a>
 
