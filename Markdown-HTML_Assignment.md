@@ -15,14 +15,14 @@ flowchart TD
     A --> C[No?]
     C --> CC[Figure it out?]
     CC --> CCC[No]
-    CCC --> cccc[Reevaluate life]
+    CCC --> cccc[<em>Reevaluate life</em>]
     CC --> BB[Yes]
     BB --> D[Listen to the best music]
     B ---------> D[Listen to the best music]
     D --> DD[Recommendations]
-    DD --> E["Modern English"]
-    DD --> F["A Flock Of Seagulls"]
-    DD --> G["'Til Tuesday"]
+    DD --> E["<em><strong>Modern English</em></strong>"]
+    DD --> F["<em><strong>A Flock Of Seagulls</em></strong>"]
+    DD --> G["<em><strong>'Til Tuesday</em></strong>"]
     
     click E "https://www.youtube.com/watch?v=RmDftGg1kQI"
     click F "https://www.youtube.com/watch?v=f5mBN9aQHGI"
