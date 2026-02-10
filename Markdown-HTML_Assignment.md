@@ -7,3 +7,19 @@
 <a href="Defs_Not_Rick_Roll.gif">___Important___
 
 <a href="experimentingfile.md">Grocery List</a>
+
+```mermaid
+    A[Enjoy New Wave?]
+    A --> B[Yes]
+    A --> C[No?]
+    C --> CC[Figure it out?]
+    CC --> CCC[No]
+    CCC --> cccc[reevaluate life]
+    CC --> BB[Proceed to listen to the best music]
+    BB --> D[Listen to the best music]
+    B ---------> D[Listen to the best music]
+    D --> DD[Recommendations]
+    DD --> E<a href="https://www.youtube.com/watch?v=RmDftGg1kQI"> [Modern English] </a>
+    DD --> F<a href="https://www.youtube.com/watch?v=f5mBN9aQHGI"> [A Flock Of Seagulls] </a>
+    DD --> G<a href="https://www.youtube.com/watch?v=zUKXhRikfPw"> ['Til Tuesday] </a>
+```
